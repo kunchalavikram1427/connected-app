@@ -14,5 +14,4 @@ AAj fir se suru kr diye
 Shuru se suru
 Love you Mahadev
 Generic _webhook _trigger se phle krte hai na
-Ab pull request se trigger krwate hain
 ```
