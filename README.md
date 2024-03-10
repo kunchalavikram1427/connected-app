@@ -7,3 +7,4 @@ docker build -t <DOCKERHUB_USERNAME>/app:1.0 .
 hii
 how are you
 avasome
+hello
